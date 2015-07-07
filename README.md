@@ -1,5 +1,8 @@
 # MAI
-Méthodes d'accès à l'informations (moteur de recherche sur des données d’évaluation réelles)
+Méthodes d'accès à l'informations permettant de faire tourner un moteur de recherche sur des
+données d’évaluation réelles afin d’analyser les résultats en fonction des différentes
+stratégies adaptées. Ces stratégies sont fortement liées aux différents programmes de
+pré-traitement ainsi qu’au choix du schéma de pondération.
 
 Contribuer
 ==========
