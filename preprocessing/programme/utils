@@ -1,0 +1,7 @@
+- on reccupere le numero de l'article ainsi que contenu avec le programme reformater.pl => Ce programme renvoie un document txt
+
+-le fichier resultant "result.txt" pourra ainsi utilisé par les stemmer : se placer dans le repertoire TP_MAI/sources/preprocessing/result et on applique la fonction pour le fichier : stemmer-porter-fre result.txt > ResultPorter.txt 
+
+-Pour analyser la syntaxe de fichier final en utilise un tagger dont le resultat de ce dernier a été pré-traité et reformaté afin qu'il puisse etre fourni a l'indexeur.
+
+-Il existe aussi un script shell permettant d'appliquer directement le stemmer Porter sur le fichier/document qu'on souhaite annalyser.
